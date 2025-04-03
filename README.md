@@ -1,4 +1,4 @@
-# Spring RSI Internship at ORNL - ADIOS2 Project
+# Spring 2025 RSI Internship at ORNL - Workflow Systems Group ADIOS2 Project
 
 ## Overview
 This repository contains all the materials and documentation for my Spring 2025 RSI Internship project at Oak Ridge National Laboratory (ORNL), focusing on optimizing data management in high-performance computing (HPC) environments using ADIOS2.
